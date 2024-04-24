@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Multiverse, the apprenticeship unicorn, acquires Searchlight to put a focus on AI | TechCrunch",
+            "description": "Multiverse, the U.K. unicorn that builds apprenticeship programs for people to learn technology skills while on the job, has made an acquisition as it",
+            "url": "https://techcrunch.com/2024/04/08/multiverse-the-apprenticeship-unicorn-acquires-searchlight-to-put-a-focus-on-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/Searchlight-Founders.jpg?resize=1200,672",
+            "publishedAt": "2024-04-08T23:46:46Z",
+            "content": "Multiverse, the U.K. unicorn that builds apprenticeship programs for people to learn technology skills while on the job, has made an acquisition as it aims to skill up itself. The company has bought … [+4417 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Targus says cyberattack causing operational outage | TechCrunch",
+            "description": "Targus' parent company, B. Riley Financial, said it discovered \"a threat actor gained unauthorized access to certain of Targus’ file systems.\"",
+            "url": "https://techcrunch.com/2024/04/08/targus-says-cyberattack-causing-operational-outage/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/targus-image-breach-cyberattack.jpg?resize=1200,890",
+            "publishedAt": "2024-04-08T22:07:39Z",
+            "content": "Mobile gadget and bag maker Targus says it is experiencing a “temporary interruption” to its business operations following a cyberattack on Friday.\r\nIn a notice with regulators on Monday, Targus’ par… [+1307 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Meta's X competitor Threads invites developers to sign up for API access, publishes docs | TechCrunch",
+            "description": "After opening its developer API to select companies for testing in March, Meta's Twitter/X competitor Threads is now introducing developer documentation",
+            "url": "https://techcrunch.com/2024/04/08/metas-x-competitor-threads-invites-developers-to-sign-up-for-api-access-publishes-docs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Threads-GettyImages-1524134312.jpg?resize=1200,800",
+            "publishedAt": "2024-04-08T20:51:14Z",
+            "content": "After opening its developer API to select companies for testing in March, Meta’s Twitter/X competitor Threads is now introducingdeveloper documentation and a sign-up sheet for interested parties ahea… [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "TikTok's Instagram competitor likely to be named TikTok Notes | TechCrunch",
+            "description": "TikTok's upcoming Instagram competitor app for sharing photos could be named TikTok Notes, according to screenshots posted by users. TikTok also confirmed",
+            "url": "https://techcrunch.com/2024/04/08/tiktoks-instagram-competitor-likely-to-be-named-tiktok-notes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-tokyo-game-show.jpg?resize=1200,798",
+            "publishedAt": "2024-04-08T19:38:51Z",
+            "content": "TikTok’s upcoming Instagram competitor app for sharing photos could be named TikTok Notes, according to screenshotspostedby users. TikTok also confirmed the app was in development.\r\nOver the last few… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Now at the top of the App Store, The Eclipse App is a great companion for Monday's solar eclipse | TechCrunch",
+            "description": "A well-designed app designed to optimize your viewing of the total solar eclipse on April 8, 2024, has surged to the top of the App Store. With 140,000+",
+            "url": "https://techcrunch.com/2024/04/08/now-at-the-top-of-the-app-store-the-eclipse-app-is-a-great-companion-for-mondays-solar-eclipse/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1501139986.jpg?resize=1200,800",
+            "publishedAt": "2024-04-08T18:51:37Z",
+            "content": "A well-designed app designed to optimize your viewing of the total solar eclipse on April 8, 2024, has surged to the top of the App Store. With 140,000+\r\nlifetime downloads across iOS and Android, a … [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "China tensions underline US investment in TSMC | TechCrunch",
+            "description": "The United States Department of Commerce Monday proposed investing as much as $6.6 billion to fund a third Taiwan Semiconductor Manufacturing Company",
+            "url": "https://techcrunch.com/2024/04/08/china-tensions-underline-us-investment-in-tsmc/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/bosch_sic_wafer_2-standard_1280x720_img_w1280.png?resize=1200,675",
+            "publishedAt": "2024-04-08T18:13:54Z",
+            "content": "The United States Department of Commerce Monday proposed investing as much as $6.6 billion to fund a third Taiwan Semiconductor Manufacturing Company Limited (TSMC) fab in Arizona. The funding would … [+5135 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Neurotech startup Neurovalens gets FDA clearance for non-invasive anxiety treatment | TechCrunch",
+            "description": "A 2019 rule-change by the US medical devices regulator aimed at encouraging innovations targeting insomnia and anxiety is bearing fruit: Neurovalens, a Neurovalens, a Belfast-based startup that's been developing technology to deliver non-invasive electrical s…",
+            "url": "https://techcrunch.com/2024/04/08/neurovalens-anxiety-fda/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Screenshot-2024-04-08-at-19.17.32.png?resize=1200,1061",
+            "publishedAt": "2024-04-08T17:28:35Z",
+            "content": "A 2019 rule-change by the US medical devices regulator aimed at encouraging innovations targeting insomnia and anxiety is bearing fruit: Neurovalens, a Belfast-based startup that’s been developing te… [+7159 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "Hackers stole 340,000 Social Security numbers from government consulting firm | TechCrunch",
+            "description": "The consultancy firm provides litigation support for companies and government agencies, including the Department of Justice.",
+            "url": "https://techcrunch.com/2024/04/08/hackers-stole-340000-social-security-numbers-from-government-consulting-firm/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/social-security-cards-ssn.jpg?resize=1200,800",
+            "publishedAt": "2024-04-08T16:36:02Z",
+            "content": "U.S. consulting firm Greylock McKinnon Associates disclosed a data breach in which hackers stole as many as 341,650 Social Security numbers.\r\nThe data breach was disclosed on Friday on Maines governm… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "TechCrunch Space: Happy eclipse day! | TechCrunch",
+            "description": "Hello and welcome back to TechCrunch Space. Happy Eclipse Day for everyone celebrating! I'm fortunate to be living in a part of the country that's in the",
+            "url": "https://techcrunch.com/2024/04/08/techcrunch-space-happy-eclipse-day/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-hero.gif?w=941",
+            "publishedAt": "2024-04-08T16:30:29Z",
+            "content": "Hello and welcome back to TechCrunch Space. Happy Eclipse Day for everyone celebrating! I’m fortunate to be living in a part of the country that’s in the path of totality, so I’ll be away from my des… [+2492 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Google rolls out Gemini in Android Studio for coding assistance | TechCrunch",
+            "description": "Google continues rolling out Gemini to different products as today the company announced that Android Studio's bot is getting upgraded with Gemini Pro.",
+            "url": "https://techcrunch.com/2024/04/08/google-rolls-out-gemini-in-android-studio-for-coding-assistance/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
+            "publishedAt": "2024-04-08T05:26:31Z",
+            "content": "Google continues rolling out Gemini to differentproducts as today the company announced that Android Studio’s bot is getting upgraded with Gemini Pro.\r\nIn May 2023, during the Google IO developer eve… [+1200 chars]"
+        }
+    ]
+}
